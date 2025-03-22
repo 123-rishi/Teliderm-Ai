@@ -94,11 +94,11 @@ streamlit run app.py
 
 ---
 
-## 🤖 Future Enhancements
-- 🏥 **Integration with EHR Systems** (Electronic Health Records)
-- 📊 **Detailed Skin Condition Reports**
-- 🔍 **More Pre-Trained Medical Models**
-- 🌍 **Multi-Language Support**
+##  Future Enhancements
+-  **Integration with EHR Systems** (Electronic Health Records)
+-  **Detailed Skin Condition Reports**
+-  **More Pre-Trained Medical Models**
+-  **Multi-Language Support**
 
 ---
 
