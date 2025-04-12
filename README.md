@@ -54,12 +54,3 @@ TelidermAI is an AI-powered web application that allows users to classify skin c
 - **Google Gemini API** – Medical chatbot
 
 ---
-
-## 📦 Installation & Setup
-
-### 🔹 Prerequisites
-
-Install required Python libraries:
-
-```bash
-pip install -r requirements.txt
